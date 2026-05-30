@@ -164,7 +164,7 @@ const Contact = () => {
         const formData = new FormData(form);
 
         // Web3Forms Public Access Key (테스트용 키 혹은 실제 키 교체 필요)
-        formData.append("access_key", "YOUR_ACCESS_KEY_HERE");
+        formData.append("access_key", "08e0608d-ac1a-41d3-a8a0-63d4fc260f9e");
 
         try {
             const response = await fetch("https://api.web3forms.com/submit", {
