@@ -227,6 +227,10 @@ const Contact = () => {
                             <input type="text" id="email" name="contact_info" className="form-control" required placeholder="john@example.com" />
                         </div>
                         <div className="form-group">
+                            <label htmlFor="subject">Subject</label>
+                            <input type="text" id="subject" name="subject" className="form-control" required placeholder="프로젝트 문의" />
+                        </div>
+                        <div className="form-group">
                             <label htmlFor="message">Message</label>
                             <textarea id="message" name="message" className="form-control" required placeholder="Hello, I'd like to talk about..."></textarea>
                         </div>
