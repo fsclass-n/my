@@ -113,14 +113,14 @@ const Projects = () => {
             link: "https://subwaykr.onrender.com"
         },
         {
-            title: "MovieFlow Streaming",
-            desc: "최신 영화 정보 및 스트리밍 서비스를 제공하는 플랫폼입니다. 다크 테마 기반의 시네마틱한 사용자 경험을 제공합니다.",
+            title: "Smart Movie Ticket & RPA",
+            desc: "상영 시간표를 자동으로 스크래핑하고, 명당 자리 잔여석을 실시간 체크해 알림을 보내는 RPA 기반 영화 예매 추천 서비스입니다.",
             image: "./images/movie.png",
             link: "https://movieflowkr.onrender.com"
         },
         {
-            title: "Recipe Master",
-            desc: "다양한 요리 레시피를 검색하고 공유할 수 있는 커뮤니티 앱입니다. 사용자가 쉽게 요리 과정을 따라할 수 있도록 설계되었습니다.",
+            title: "AI Smart Diet & Fridge",
+            desc: "RPA로 대형마트 할인가 식재료를 찾고, AI가 냉장고 파먹기 컨셉으로 사용자 건강 상태(당뇨, 다이어트 등)에 맞는 맞춤형 레시피를 창작합니다.",
             image: "./images/recipe.png",
             link: "https://recipekr.onrender.com"
         }
